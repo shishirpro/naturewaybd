@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@utility container{
+    max-width: 1150px;
+    margin:auto;
+    padding: 0 10px;
+}
+
+@theme{
+    --color-primary_bg: #F7FADF;
+    --color-secondary_bg: #527C4C;
+    --color-button_bg: #87008f;
+    --text-4xl: 34px;
+}
+
+body {
+    font-family: "Hind Siliguri", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
